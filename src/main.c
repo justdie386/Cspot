@@ -6,8 +6,8 @@
 #include <crtdbg.h>
 #include <stdio.h>
 #include <windows.h>
-#define CLIENTID "ecfc0219f67d4e89893ec18f86441223"
-#define SECRETID "a6b4b1d286b24427bc3230f50360fcb9"
+#define CLIENTID
+#define SECRETID
 
 int check_song(song music_info)
 {
